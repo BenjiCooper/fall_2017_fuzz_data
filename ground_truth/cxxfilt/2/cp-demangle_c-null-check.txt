@@ -1,0 +1,14 @@
+id:000253,sig:11,src:004299,op:flip1,pos:50
+id:000254,sig:11,src:004299,op:flip2,pos:50
+id:000303,sig:11,src:004813,op:flip1,pos:50
+id:000304,sig:11,src:004813,op:flip2,pos:50
+id:000305,sig:11,src:004818,op:flip1,pos:50
+id:000339,sig:11,src:005276,op:flip1,pos:36
+id:000341,sig:11,src:005314,op:arith8,pos:50,val:-5
+id:000342,sig:11,src:005315,op:arith8,pos:50,val:-5
+id:000343,sig:11,src:005316,op:arith8,pos:50,val:-5
+id:000344,sig:11,src:005317,op:flip1,pos:31
+id:000347,sig:11,src:005387,op:flip1,pos:50
+id:000363,sig:11,src:005657,op:flip1,pos:36
+id:000364,sig:11,src:005686,op:arith8,pos:31,val:-5
+id:000375,sig:11,src:005933,op:flip1,pos:31

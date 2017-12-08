@@ -1,0 +1,4 @@
+id:000134,sig:11,src:002983,op:flip1,pos:30
+id:000169,sig:11,src:003677,op:arith8,pos:22,val:-3
+id:000221,sig:11,src:004536,op:arith8,pos:46,val:-3
+id:000258,sig:11,src:005209,op:arith8,pos:46,val:-3
